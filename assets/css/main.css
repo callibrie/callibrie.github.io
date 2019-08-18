@@ -2198,15 +2198,29 @@ input, select, textarea {
 	padding: 0 50px 0 50px;
 }
 
+.logos {
+	margin-top: 25px;
+	text-align: center;
+	padding: 0 50px 0 50px;
+}
+
 .socials .icon {
 	color: gray;
 }
 
 /* custom name */
-.fullName {
+.full-name {
 	font-family: 'Sarala', sans-serif;
 }
 
 .profile {
 	max-width: 300px;
+}
+
+.other-icon {
+	max-width: 90px;
+}
+
+.other-icon-landscape {
+	max-width: 200px;
 }
