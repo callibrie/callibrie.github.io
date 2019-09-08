@@ -2224,3 +2224,7 @@ input, select, textarea {
 .other-icon-landscape {
 	max-width: 200px;
 }
+
+.japanese {
+	font-size: 0.75em
+}
